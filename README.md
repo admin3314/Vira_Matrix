@@ -243,7 +243,7 @@ Vira_Matrix_Library/
 ## 🎬 Live Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/admin3314/Vira_Matrix_Library/main/assets/demo.gif" width="420"/>
+  <img src="https://raw.githubusercontent.com/admin3314/Vira_Matrix_Library/main/assets/demo.gif" />
 </p>
 
 <p align="center">
