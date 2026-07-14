@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
   pull_request:
     branches:
       - main
@@ -20,5 +21,3 @@ jobs:
         uses: arduino/arduino-lint-action@v2
         with:
           compliance: strict
-          project-type: all
-          library-manager: update
