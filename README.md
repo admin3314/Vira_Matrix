@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP8266%20%7C%20ESP32-Vira%20Matrix%20Library-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESP8266%20%7C%20ESP32-Vira%20Matrix-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LED%20Matrix-8x8-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WebSocket-Realtime-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Animation-Engine-purple?style=for-the-badge"/>
 </p>
 
-<h1 align="center">🚀 Vira_Matrix_Library</h1>
+<h1 align="center">🚀 Vira_Matrix</h1>
 
 <p align="center">
-  <b>Advanced 8x8 LED Matrix Library for ESP8266 / ESP32</b><br>
+  <b>Advanced 8x8 LED Matrix for ESP8266 / ESP32</b><br>
   ⚡ Emoji Engine • 🔤 Font Rendering • 🌐 WebSocket Control • 🎞 Animation System
 </p>
 
@@ -32,7 +32,7 @@
 
 # 📌 Overview
 
-**Vira_Matrix_Library** is a lightweight yet powerful Arduino library designed for controlling **8x8 LED matrix displays** on ESP8266 and ESP32 platforms.
+**Vira_Matrix** is a lightweight yet powerful Arduino library designed for controlling **8x8 LED matrix displays** on ESP8266 and ESP32 platforms.
 
 It transforms a simple LED matrix into a **real-time interactive display system** with animation, text rendering, and WebSocket control.
 
@@ -206,7 +206,7 @@ http://< device-ip >
 ## 📁 Project Structure
 
 
-Vira_Matrix_Library/
+Vira_Matrix/
 
 │
 
